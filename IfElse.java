@@ -7,6 +7,10 @@ public class IfElse{
         double uangdiATM = 1000000;
         double sisaUang = 0;
 
+        System.out.println("1. Kebutuhan Pokok");
+        System.out.println("2. Skincare");
+        System.out.println("3. Haircare");
+        System.out.println("4. Buku atau Novel");
         System.out.print("Barang Yang Ingin Di beli : ");
         int barang = scanner.nextInt();
 
